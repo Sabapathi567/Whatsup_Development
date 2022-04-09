@@ -5,3 +5,4 @@ Connect to blurtooth
 Hiding connectivity
 Last seen code
 Hiding the last seen code
+Adding audio and Video calls
