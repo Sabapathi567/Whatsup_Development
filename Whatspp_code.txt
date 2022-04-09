@@ -1,5 +1,7 @@
-Oprn app
+Open app
 Close App
 Calling function
 Connect to blurtooth
 Hiding connectivity
+Last seen code
+Hiding the last seen code
