@@ -1,0 +1,5 @@
+Oprn app
+Close App
+Calling function
+Connect to blurtooth
+Hiding connectivity
